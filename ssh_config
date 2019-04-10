@@ -1,5 +1,4 @@
-# CAEN
-Host danazhu_caen
+# ~/.ssh/config
+Host caen
 	HostName login.engin.umich.edu
 	User danazhu
-	Compression yes
