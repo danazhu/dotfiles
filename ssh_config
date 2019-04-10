@@ -1,0 +1,5 @@
+# CAEN
+Host danazhu_caen
+	HostName login.engin.umich.edu
+	User danazhu
+	Compression yes
